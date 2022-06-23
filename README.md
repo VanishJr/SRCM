@@ -5,7 +5,7 @@ __________________________________
 <li>How to use fstream library</li>
 <li>How to use windows.h library</li>
 <li>How to work with files</li>
-__________________________________
+
 
 ## Start Menu
 
