@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Logutov\source\repos\SRCM\SRCM\Source.cpp(322,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Logutov\source\repos\SRCM\SRCM\Source.cpp(322,20): warning C4309: 'initializing': truncation of constant value
+  SRCM.vcxproj -> C:\Users\Logutov\source\repos\SRCM\x64\Debug\SRCM.exe
