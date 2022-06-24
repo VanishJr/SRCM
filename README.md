@@ -1,5 +1,5 @@
 # SRCM
-Student Report Card Managment 
+Simple Student Report Card Managment written by C++ language
 __________________________________
 ## What did I learn
 <li>How to use fstream library</li>
