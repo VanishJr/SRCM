@@ -15,6 +15,13 @@ This is a basic C++ program that allows the user to input student information su
   <li>The user can also modify or delete student records by providing the student's roll number.</li>
 </ol>
 
+## Additional Information
+<ul>
+  <li>The program uses the <b>"fstream"</b> library to read and write student records to a binary file.</li>
+  <li>The program uses the <b>"iomanip"</b> library to format the output in the tabular format.</li>
+  <li>The program uses the <b>"iostream"</b> library for input and output operations.</li>
+</ul>
+
 ## Note
 Please use the iostream library to input and output operation instead of windows.h
 
@@ -24,6 +31,9 @@ Please use the iostream library to input and output operation instead of windows
   <li>The program does not have any validation for input data and may crash if incorrect data is entered.</li>
   <li>The program is only tested on Windows and may not work properly on other operating systems.</li>
 </ul>
+
+## Contact
+If you have any questions or issues with the program, please contact the developer at logutov.ivan@gmail.com
 
 
 ## Start Menu
