@@ -15,9 +15,15 @@ This is a basic C++ program that allows the user to input student information su
   <li>The user can also modify or delete student records by providing the student's roll number.</li>
 </ol>
 
-## Contributions
-This program was created by Logutov Ivan. Contributions and suggestions for improvements are welcome.
+## Note
+Please use the iostream library to input and output operation instead of windows.h
 
+## Limitations
+<ol>
+  <ul>The program only supports a maximum of 100 student records.</ul>
+  <ul>The program does not have any validation for input data and may crash if incorrect data is entered.</ul>
+  <ul>The program is only tested on Windows and may not work properly on other operating systems.</ul>
+</ol>
 
 
 ## Start Menu
