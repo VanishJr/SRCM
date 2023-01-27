@@ -1,5 +1,6 @@
-Application Documentation
-This application is a student report card management system written in C++. It allows the user to input student information such as roll number, name, and marks in various subjects. The application then calculates the student's percentage and assigns a grade based on their performance. The user can also view, modify, and delete student records, as well as view class results in a tabular format.
+##Application Documentation
+
+<p>This application is a student report card management system written in C++. It allows the user to input student information such as roll number, name, and marks in various subjects. The application then calculates the student's percentage and assigns a grade based on their performance. The user can also view, modify, and delete student records, as well as view class results in a tabular format.</p>
 
 Usage
 To run the program, make sure you have a C++ compiler installed on your system.
