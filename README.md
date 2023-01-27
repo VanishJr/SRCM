@@ -19,11 +19,11 @@ This is a basic C++ program that allows the user to input student information su
 Please use the iostream library to input and output operation instead of windows.h
 
 ## Limitations
-<ol>
-  <ul>The program only supports a maximum of 100 student records.</ul>
-  <ul>The program does not have any validation for input data and may crash if incorrect data is entered.</ul>
-  <ul>The program is only tested on Windows and may not work properly on other operating systems.</ul>
-</ol>
+<ul>
+  <li>The program only supports a maximum of 100 student records.</li>
+  <li>The program does not have any validation for input data and may crash if incorrect data is entered.</li>
+  <li>The program is only tested on Windows and may not work properly on other operating systems.</li>
+</ul>
 
 
 ## Start Menu
